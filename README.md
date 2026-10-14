@@ -5,7 +5,7 @@
 [![Framework: TanStack Start](https://img.shields.io/badge/Framework-TanStack%20Start-cyan)](https://tanstack.com/start)
 [![Live Sandbox: brokenseo.dev](https://img.shields.io/badge/Live%20Sandbox-brokenseo.dev-brightgreen)](https://brokenseo.dev)
 
-> **Built and maintained by [FastestRank](https://fastestrank.com) to benchmark SEO crawlers, site auditors, and automated testing tools.**
+> **Built and maintained by [FastestRank](https://www.fastestrank.com) to benchmark SEO crawlers, site auditors, and automated testing tools.**
 
 ---
 
@@ -185,7 +185,7 @@ pnpm deploy
 
 ## 🔍 How FastestRank Uses This
 
-At [FastestRank](https://fastestrank.com), we build real-time rank tracking and site diagnostic engines for developers and technical SEO professionals.
+At [FastestRank](https://www.fastestrank.com), we build real-time rank tracking and site diagnostic engines for developers and technical SEO professionals.
 
 We built **BrokenSEO.dev** to serve as our own automated ground-truth test suite:
 - Every page fixture defines exact deterministic assertions for our audit crawler.
@@ -194,7 +194,7 @@ We built **BrokenSEO.dev** to serve as our own automated ground-truth test suite
 
 ### Benchmark Your Own Production Sites
 Curious how your real-world web applications stack up against these checks?
-Run a free instant audit of your site with the production-grade diagnostic engine at **[FastestRank.com](https://fastestrank.com)**.
+Run a free instant audit of your site with the production-grade diagnostic engine at **[FastestRank.com](https://www.fastestrank.com)**.
 
 ---
 
@@ -236,4 +236,4 @@ export const myNewFixture: Fixture = {
 ## 📄 License
 
 Licensed under the [MIT License](LICENSE).
-Copyright (c) 2026 [FastestRank](https://fastestrank.com).
+Copyright (c) 2026 [FastestRank](https://www.fastestrank.com).
